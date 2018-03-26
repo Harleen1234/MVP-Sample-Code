@@ -4,13 +4,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 
-/**
- * This class represents the country service.
- *
- * @author Jean Carlos (Github: @jeancsanchez)
- * @date 29/07/16.
- * Jesus loves you.
- */
+
 public class CountryService {
     private Retrofit retrofit = null;
 

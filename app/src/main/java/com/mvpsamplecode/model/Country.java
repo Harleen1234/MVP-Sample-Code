@@ -2,13 +2,7 @@ package com.mvpsamplecode.model;
 
 import com.google.gson.annotations.SerializedName;
 
-/**
- * This class represents the country view interface.
- *
- * @author Jean Carlos (Github: @jeancsanchez)
- * @date 09/03/18.
- * Jesus loves you.
- */
+
 public class Country {
 
     @SerializedName("name")

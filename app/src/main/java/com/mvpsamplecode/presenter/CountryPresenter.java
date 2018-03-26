@@ -12,13 +12,7 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-/**
- * This class represents the country view interface.
- *
- * @author Jean Carlos (Github: @jeancsanchez)
- * @date 29/07/16.
- * Jesus loves you.
- */
+
 public class CountryPresenter {
 
     private CountryView countryView;

@@ -4,11 +4,7 @@ import com.google.gson.annotations.SerializedName;
 
 import java.util.List;
 
-/**
- * @author Jean Carlos (Github: @jeancsanchez)
- * @date 29/07/16.
- * Jesus loves you.
- */
+
 public class RestResponse {
 
     @SerializedName("messages")

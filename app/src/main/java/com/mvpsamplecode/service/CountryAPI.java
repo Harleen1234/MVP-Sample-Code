@@ -6,13 +6,7 @@ import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Path;
 
-/**
- * This class represents the Countries API, all endpoints can stay here.
- *
- * @author Jean Carlos (Github: @jeancsanchez)
- * @date 09/03/18.
- * Jesus loves you.
- */
+
 public interface CountryAPI {
 
     @GET("country/get/all")
